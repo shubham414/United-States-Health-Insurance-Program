@@ -14,7 +14,7 @@ Goal:
 
 
 Background:
-We have used a dataset that provides information on the health insurance coverage data for each US 
+I have used a dataset that provides information on the health insurance coverage data for each US 
 state and the nation as a whole. 
 It includes entities of Issuer information, Network served, States covered, various Policies, Procedures included and the Claims applied. 
 Total volume of the data extends to 250,000+ rows. 
